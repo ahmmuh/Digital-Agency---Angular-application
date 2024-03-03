@@ -1,0 +1,14 @@
+.borderless{
+    border: 0;
+}
+
+.section-container, .list-group .list-group-item{
+    background-color:  #452f6f;;
+}
+
+*{
+    color: white;
+}
+*li {
+    border-bottom: .1rem #6a6363;
+}
